@@ -1,0 +1,13 @@
+snow = 0 0
+dirt = 0 288
+stone = 0 576
+Helldirt = 0 864
+gold = 0 1152
+corrStone = 270 0
+stoneWall = 270 288
+goldWall = 270 576
+copper = 270 864
+woodWall = 540 0
+dirtWall 540 288
+sand = 540 576
+silver = 540 864

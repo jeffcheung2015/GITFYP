@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\inGame\Chunk.cs">
+    <Files>
+      <File FileName="Assets\scripts\inGame\WorldGeneration.cs" Line="179" Column="43" />
+      <File FileName="Assets\scripts\LoadWorldScript.cs" Line="70" Column="48" />
+      <File FileName="Assets\scripts\inGame\Chunk.cs" Line="107" Column="35" />
+      <File FileName="Assets\scripts\PlayerControlScript.cs" Line="50" Column="59" />
+      <File FileName="Assets\for testing only\WorldGenTestOnly.cs" Line="86" Column="29" />
+      <File FileName="Assets\scripts\inGame\World.cs" Line="46" Column="25" />
+      <File FileName="Assets\scripts\BlocksScript\SandBlock.cs" Line="80" Column="20" />
+      <File FileName="Assets\scripts\BlocksScript\Block.cs" Line="13" Column="16" />
+      <File FileName="Assets\scripts\BlocksScript\StoneBlock.cs" Line="78" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

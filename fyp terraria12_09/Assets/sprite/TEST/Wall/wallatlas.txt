@@ -1,0 +1,6 @@
+stonebackWall = 0 844
+dirtbackWall_2 = 0 664
+undestructibleWall_3 = 468 844 
+woodbackWall = 468 664
+stonebrickWall = 0 484
+brickWall_6 = 0 304

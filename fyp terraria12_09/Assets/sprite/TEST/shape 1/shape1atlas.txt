@@ -1,0 +1,5 @@
+Tiles_2 0,628
+Tiles_2_Beach 288,628
+Tiles_23 576,628
+Tiles_60 0,232
+Tiles_70 288,232

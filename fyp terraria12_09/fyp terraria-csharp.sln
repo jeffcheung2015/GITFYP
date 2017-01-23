@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{25AB26EC-472E-EAD2-377E-8DB20560E0B7}") = "fyp terraria", "Assembly-CSharp-vs.csproj", "{C9858A39-7E0F-3267-B4DA-1A31F12E26D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9858A39-7E0F-3267-B4DA-1A31F12E26D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9858A39-7E0F-3267-B4DA-1A31F12E26D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9858A39-7E0F-3267-B4DA-1A31F12E26D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9858A39-7E0F-3267-B4DA-1A31F12E26D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
